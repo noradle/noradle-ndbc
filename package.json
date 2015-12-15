@@ -21,7 +21,14 @@
   "author": "kaven276@vip.sina.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kaven276/noradle-nodejs-client/issues"
+    "url": "https://github.com/noradle/noradle-ndbc/issues"
   },
-  "homepage": "https://github.com/kaven276/noradle-nodejs-client"
+  "homepage": "https://github.com/noradle/noradle-ndbc",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "debug": "~2.1.1",
+    "noradle-resultsets": "^0.13.0"
+  }
 }
