@@ -1,0 +1,27 @@
+{
+  "name": "noradle-ndbc",
+  "version": "0.13.0",
+  "description": "node.js database connectivity to oracle by noradle",
+  "main": "NDBC.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:noradle/noradle-ndbc.git"
+  },
+  "keywords": [
+    "noradle",
+    "ndbc",
+    "client",
+    "driver",
+    "pool",
+    "jdbc"
+  ],
+  "author": "kaven276@vip.sina.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaven276/noradle-nodejs-client/issues"
+  },
+  "homepage": "https://github.com/kaven276/noradle-nodejs-client"
+}
