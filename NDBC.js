@@ -168,6 +168,7 @@ DBCall.prototype.call = function(prog, params, body, cb){
 };
 
 exports.Class = DBCall;
+exports.DBCall = DBCall;
 
 // Unit Test
 (function(){
