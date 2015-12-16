@@ -29,6 +29,6 @@
   },
   "dependencies": {
     "debug": "~2.1.1",
-    "noradle-resultsets": "^0.13.0"
+    "noradle-resultsets": "^0.13.1"
   }
 }
