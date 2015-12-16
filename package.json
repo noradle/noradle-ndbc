@@ -1,6 +1,6 @@
 {
   "name": "noradle-ndbc",
-  "version": "0.13.1",
+  "version": "0.13.2",
   "description": "node.js database connectivity to oracle by noradle",
   "main": "NDBC.js",
   "scripts": {
